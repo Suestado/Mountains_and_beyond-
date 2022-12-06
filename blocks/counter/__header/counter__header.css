@@ -1,0 +1,10 @@
+.counter__header {
+  display: inline-block;
+  margin: 0;
+  padding: 0 0 40px;
+
+  font-family: 'Gilroy', "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: right;
+}

@@ -1,0 +1,9 @@
+.content__title {
+    margin: 0;
+    padding: 0;
+    font-family: 'Chronicle Display', "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+}

@@ -1,0 +1,10 @@
+.counter__stage {
+  display: inline-block;
+  margin: 0 0 40px;
+  padding: 0;
+
+  font-family: 'Gilroy';
+  font-size: 18px;
+  line-height: 22px;
+  text-align: right;
+}

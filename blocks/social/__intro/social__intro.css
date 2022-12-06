@@ -1,0 +1,12 @@
+.social__intro {
+  display: block;
+  writing-mode: vertical-rl;
+  margin: 0 0 26px;
+  padding: 0;
+
+  font-family: 'Gilroy', "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}

@@ -1,0 +1,7 @@
+.counter__pointer {
+  border: solid 2px white;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}

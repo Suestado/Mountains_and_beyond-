@@ -1,0 +1,11 @@
+.footer__column-link {
+  display: block;
+  margin-top: 16px;
+
+  font-family: 'Gilroy', "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+}
+

@@ -1,0 +1,11 @@
+.header__nav_link {
+    font-family: 'Gilroy', "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.header__nav_link:not(:last-child) {
+    margin-right: 40px;
+}

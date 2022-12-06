@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Gilroy"),
+  url(../../vendor/fonts/gilroy/Gilroy-Medium.woff2) format("woff2"),
+  url(../../vendor/fonts/gilroy/Gilroy-Medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Gilroy"),
+  url(../../vendor/fonts/gilroy/Gilroy-Bold.woff2) format("woff2"),
+  url(../../vendor/fonts/gilroy/Gilroy-Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 800;
+  src: local("Gilroy"),
+  url(../../vendor/fonts/gilroy/Gilroy-Extrabold.woff2) format("woff2"),
+  url(../../vendor/fonts/gilroy/Gilroy-Extrabold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Chronicle Display";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Chronicle Display"),
+  url(../../vendor/fonts/chronicle-display-cufonfonts/Chronicle_Display_Semibold.otf);
+}
+
+
+.page {
+  background: url(../../images/Group_21.png) no-repeat,
+  #0B1D26;
+  color: #fff;
+  max-width: 1920px;
+  min-width: 1520px;
+}
+

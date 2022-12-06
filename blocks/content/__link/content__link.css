@@ -1,0 +1,10 @@
+.content__link {
+    display: flex;
+    align-items: center;
+    font-family: 'Gilroy', "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FBD784
+}

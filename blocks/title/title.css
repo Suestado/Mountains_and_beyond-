@@ -1,0 +1,10 @@
+.title {
+  margin: 32px 0 32px;
+  padding: 0;
+  font-family: 'Chronicle Display', "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 88px;
+  line-height: 100px;
+  text-transform: capitalize;
+}

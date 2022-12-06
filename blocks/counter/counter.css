@@ -1,0 +1,6 @@
+.counter {
+  display: flex;
+  position: fixed;
+  top: 237px;
+  right: 80px;
+}
